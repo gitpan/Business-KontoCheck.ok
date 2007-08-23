@@ -1,0 +1,22 @@
+00liesmich.txt
+0_history.txt
+Changes
+KontoCheck.xs
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/Business-KontoCheck.t
+lib/Business/KontoCheck.pm
+konto_check.c
+konto_check.h
+konto_check-at.c
+konto_check-at.h
+inpar.dat
+blz.lut
+blz-at.lut
+test.pl
+testkonten.txt
+testkonten-at.txt
+lgpl.txt
+META.yml                                 Module meta-data (added by MakeMaker)
